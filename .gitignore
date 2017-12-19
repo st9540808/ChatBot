@@ -104,5 +104,7 @@ ENV/
 
 
 # testing directory
-./bucket_api_heroku/
-./Deploying-Flask-To-Heroku/
+bucket_api_heroku/
+Deploying-Flask-To-Heroku/
+.vscode/
+ngrok
