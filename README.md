@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 
 ### Run Locally
-Using`ngrok` as a proxy.
+Using `ngrok` as a proxy.
 
 **`ngrok` will be used in the following instruction**
 
@@ -68,7 +68,7 @@ This string template will request bus information including number of between `�
 
 #### 2.
 > 	* Input: "Update"
-> 	    * Reply: "14 經14站到中友百貨 <br>--------- 民俗公園(昌平路)預計到站: 9分"
+> 	    * Reply: "14 經11站到中友百貨 <br>--------- 民俗公園(昌平路)預計到站: 9分"
 
 
 
